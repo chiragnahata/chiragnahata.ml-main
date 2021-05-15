@@ -13,6 +13,8 @@ I am Chirag Nahata, the developer of this website.
 - [IDE](/IDE) - https://github.com/Chirag-Nahata/IDE
 - [Browser](/browser) - https://github.com/Chirag-Nahata/Browser
 
+Get all my repoitories [here](https://github.com/Chirag-Nahata)
+
 ## My Apps
 ### The Study Desk App : The All in One Solution for Digital Learning
 - [Download](https://appstore.mobiroller.com/android-ios-market/education/887417/the-study-desk-mobile-application)
