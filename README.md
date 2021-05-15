@@ -1,4 +1,4 @@
-# Info
+# About Me
 Hi Everyone, 
 I am Chirag Nahata, the developer of this website.
 - [My another website](https://chiragnahata.wixsite.com/chiragnahata)
