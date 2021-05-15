@@ -11,7 +11,7 @@ I am Chirag Nahata, the developer of this website.
 
 ## My Repositories
 - [IDE](/IDE) - https://github.com/Chirag-Nahata/IDE
-- [Browser](/browser) - https://github.com/Chirag-Nahata/IDE
+- [Browser](/browser) - https://github.com/Chirag-Nahata/Browser
 
 ## My Apps
 ### The Study Desk App : The All in One Solution for Digital Learning
