@@ -15,7 +15,7 @@ I am Chirag Nahata, the developer of this website.
 ## My Apps
 ### The Study Desk App : The All in One Solution for Digital Learning
 - [Download](https://appstore.mobiroller.com/android-ios-market/education/887417/the-study-desk-mobile-application)
-- [Terms & Conditions](/the-study-desk)
+- [Terms & Conditions](/the-study-desk-privacy-policy)
 
 ### Secret Chat App : A Secure Chatting , Calling and Video Conferencing App
 - [Download](https://drive.google.com/file/d/1fEpJ-LJWJyb5upVowdocStxp7oG1u6rq/view?usp=sharing)
